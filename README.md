@@ -1,27 +1,248 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>SentraSec — a defense-grade, AI-driven threat detection and response platform focused on behavioral analysis and explainable security<br><br>Security-centric AI systems combining anomaly detection, telemetry analysis, and intelligent agents<br><br>Real-time, high-performance systems integrating computer vision, audio synthesis, and GPU compute for advanced interactive and analytical workflows<br><br>🤝 I’m looking to collaborate on<br><br>Cybersecurity offense & defense projects (threat detection, SOC tooling, SIEM/XDR, red–blue team simulations)<br><br>AI-driven security systems using RAG, autonomous agents, and intelligence pipelines<br><br>Cloud-native security platforms and distributed systems<br><br>Research-oriented projects at the intersection of AI, security, and systems engineering<br><br>🧠 I’m looking for help with<br><br>Designing and scaling real-time AI security pipelines<br><br>Building reliable LLM-powered agents with tools, memory, and control loops<br><br>Applying explainable AI (XAI) to security decisions and alerts<br><br>Production-grade deployment across cloud, containers, and distributed environments<br><br>🌱 I’m currently learning<br><br>Cybersecurity offense & defense (attack simulation, adversarial thinking, detection engineering)<br><br>AI/ML with RAG architectures for knowledge-grounded intelligence systems<br><br>Agent building (LLM agents, orchestration, tool use, autonomy)<br><br>Cloud computing & distributed systems (scalability, resilience, observability)<br><br>Blockchain & decentralized security concepts<br><br>Advanced system design with a defense-grade startup mindset<br><br>💬 Ask me about<br><br>AI-driven threat detection and behavioral security systems<br><br>Red team vs blue team perspectives and detection strategy<br><br>RAG pipelines, LLM agents, and applied AI system design<br><br>High-performance graphics, GPGPU computing, and real-time web systems<br><br>Turning complex technical ideas into serious, production-ready projects<br><br>⚡ Fun fact<br>I’m most engaged when working on problems that combine security, AI, and systems engineering—especially where defensive thinking, automation, and real-time intelligence intersect.
+<div align="center">
 
+# 🚀 Arjumaan.M
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arjumaan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.maan_official_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arjumaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjumaan21@rathinam.in) 
+### Founder of SentraSec AI Systems
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arjumaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arjumaan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjumaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Cyber Security Engineer | AI / ML Engineer | Full Stack Developer | Network Engineer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arjumaan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/Arjumaan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://github.com/Arjumaan"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
+<a href="mailto:arjumaan21@rathinam.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+<a href="https://hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://hackerearth.com/"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"></a>
+<a href="https://facebook.com/Arjumaan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+<a href="https://instagram.com/_mr.maan_official_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139&style=for-the-badge" alt="Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Company_Website-%230467DF.svg?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Company"></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arjumaan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EC866&center=true&vCenter=true&width=800&lines=Building+Secure,+AI-Driven+Platforms;Bridging+Automation+%26+Defense-Grade+Security;Transforming+Tech,+Education+%26+Security+Globally" alt="Typing SVG" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arjumaan&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM by Arjumaan.M ( https://gprm.itsvg.in ) -->
+## 👁️ The Vision & Mission
+
+I build secure, AI-driven platforms that bridge the gap between intelligent automation and defense-grade security. As a startup founder and the **Founder of SentraSec AI Systems**, my primary focus lies at the cutting edge of technology—encompassing **AI/ML, Cybersecurity, Cloud Computing, Blockchain, and System Monitoring**.
+
+My engineering background has been deliberately sculpted to be highly versatile. Whether architecting scalable SaaS applications, deploying rigorous cybersecurity defense strategies, engineering complex networks, or building foundational AI/ML models, I adapt and excel in any technical role.
+
+**My ultimate vision as a startup founder is to transform India and propel it to global leadership in technology, education, and security.**
+
+---
+
+## 🏢 Startup Flagship Products
+
+These represent the core products currently driving my vision forward:
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🛡️ AEGIS (SOC)</h3>
+      <p>A defense-grade Security Operations Center (SOC) project under SentraSec AI Systems, built to provide real-time threat detection, anomalous behavioral analysis, and enterprise-level incident response.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 Forge AI</h3>
+      <p>An advanced AI platform offering cutting-edge intelligence, automation pipelines, and agentic workflows designed to accelerate business intelligence and productivity.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>📚 CT Upskilling</h3>
+      <p>A premier EdTech platform revolutionizing how individuals learn, offering immersive tech upskilling and bridging the gap between academic knowledge and industry-grade engineering.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+| Role & Organization | Duration | Impact & Responsibilities |
+| :--- | :--- | :--- |
+| **CCTV & Network Infrastructure Intern** <br> *iFix Tech Solutions Pvt. Ltd.* | 2024 – 2026 | Deployed and maintained IP-based CCTV network infrastructures. Handled complex router, switch, and endpoint configuration. Troubleshot device communication issues and contributed to the structured design of office network deployments. |
+| **SEO Analyst Intern** <br> *RankuHigher* | 2024 (3 Mos) | Optimized multiple client websites through targeted keyword research and on-page audits. Executed comprehensive competitor analysis. Successfully **ranked 14 websites from Not-Listed to #1 rank.** |
+| **Freelance Network Engineer** <br> *Office Network Setup Project* | Freelance | Architected and deployed a secure routing infrastructure featuring 3-tier departmental network segmentation. Configured strict inter-departmental endpoint deployments to ensure operational isolation. |
+| **Virtual Network Infrastructure Designer** <br> *Simulated Enterprise Project* | Academic | Architected a production-grade enterprise network simulation. Designed comprehensive routing protocols, VLAN segmentation, IP addressing schemas, and secure access architectures. |
+
+---
+
+## 💻 Core Engineering Arsenal
+
+<details open>
+<summary><b>🖥️ Languages & Scripting</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🌐 Frontend, UI & Mobile</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=databricks&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, Deployment & Servers</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br>
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+</details>
+
+---
+
+## 📜 Elite Certifications Wall
+
+A curated selection from my **50+ professional certifications** across global tech giants:
+
+- 🛡️ **Google Cybersecurity Professional Certificate**
+- 🛡️ **IBM Ethical Hacking with Open Source Tools Professional**
+- 🐧 **Red Hat Certified Engineer (RHCE) EX294**
+- ☁️ **AWS Compute, Storage & Containers**
+- 📊 **Applied Data Science & Google Data Analytics Capstones**
+- 🔬 **Data Science Methodology & Machine Learning with Python** (IBM)
+- ⚙️ **Exploitation and Penetration Testing with Metasploit**
+- 🔐 **Network Traffic Analysis with Wireshark & Endpoint Defense**
+
+---
+
+## 📂 The 120+ Project Vault
+
+I believe in continuous building. Here is a comprehensive look into my extensive vault of products, architectures, and experiments spanning multiple domains. *(Click to expand categories)*
+
+<details>
+<summary><b>🛡️ Cybersecurity & Systems Infrastructure</b></summary>
+
+| Project Name | Repository |
+| :--- | :--- |
+| **Zero Trust Network Access (ZTNA)** | [View Repo](https://github.com/Arjumaan/#) |
+| **AI - Driven Threat Detection System** | [View Repo](https://github.com/Arjumaan/#) |
+| **ByteForge Scaffold - Web App Pen Testing Framework** | [View Repo](https://github.com/Arjumaan/#) |
+| **Cloud Security Posture Management Tool** | [View Repo](https://github.com/Arjumaan/#) |
+| **Ransomware Analysis and Decryption** | [View Repo](https://github.com/Arjumaan/#) |
+| **User Behaviour Anomaly Detection System** | [View Repo](https://github.com/Arjumaan/#) |
+| **Cyber Insurance Risk Assessment Tool** | [View Repo](https://github.com/Arjumaan/#) |
+| **Secure CLI Password Manager** | [View Repo](https://github.com/Arjumaan/#) |
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+
+| Project Name | Repository |
+| :--- | :--- |
+| **AI Decision Copilot (Core Project)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Personal AI Knowledge Base (Second Brain)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Privacy-Preserving Machine Learning Framework** | [View Repo](https://github.com/Arjumaan/#) |
+| **AI Business Analyst / SQL Agent** | [View Repo](https://github.com/Arjumaan/#) |
+| **AI Customer Support Copilot** | [View Repo](https://github.com/Arjumaan/#) |
+| **AI Portfolio Reviewer / Career Mentor** | [View Repo](https://github.com/Arjumaan/#) |
+| **Image Recognition with Convolutional Networks (CNNs)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Generative Adversarial Networks for Image Generation** | [View Repo](https://github.com/Arjumaan/#) |
+| **Medical Diagnosis with Machine Learning** | [View Repo](https://github.com/Arjumaan/#) |
+| **Conversational AI Chatbot / Personal Voice Assistant** | [View Repo](https://github.com/Arjumaan/#) |
+| **Self-Driving Car Simulation** | [View Repo](https://github.com/Arjumaan/#) |
+| **Handwritten Digit Recognition & Face Recognition** | [View Repo](https://github.com/Arjumaan/#) |
+| **Music Genre Classification** | [View Repo](https://github.com/Arjumaan/#) |
+| **Customer Churn Prediction & Fake News Detection** | [View Repo](https://github.com/Arjumaan/#) |
+| **Credit Card Fraud Detection** | [View Repo](https://github.com/Arjumaan/#) |
+| **Stock Price Prediction & Predictive Analytics** | [View Repo](https://github.com/Arjumaan/#) |
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud, Full-Stack & Enterprise Applications</b></summary>
+
+| Project Name | Repository |
+| :--- | :--- |
+| **Enterprise Resource Planning (ERP) System for Startups** | [View Repo](https://github.com/Arjumaan/#) |
+| **GravityFlow - Team Collaboration Platform** | [View Repo](https://github.com/Arjumaan/#) |
+| **Healthcare Management System (Appointment + AI Reports)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Cloud-Based File Storage System (Like Google Drive)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Serverless Web Application Using AWS Lambda** | [View Repo](https://github.com/Arjumaan/#) |
+| **Auto-Scaling and Load Balancing Web App** | [View Repo](https://github.com/Arjumaan/#) |
+| **Cloud-Based IoT Device Management** | [View Repo](https://github.com/Arjumaan/#) |
+| **Multi-Cloud Deployment with Kubernetes** | [View Repo](https://github.com/Arjumaan/#) |
+| **Real-Time Video Processing on the Cloud** | [View Repo](https://github.com/Arjumaan/#) |
+| **Sales Data Analysis & BI Dashboard** | [View Repo](https://github.com/Arjumaan/#) |
+| **Real-time Data Analytics with Apache Spark** | [View Repo](https://github.com/Arjumaan/#) |
+| **Automated Data Pipeline with ETL Tools** | [View Repo](https://github.com/Arjumaan/#) |
+| **E-Commerce Dashboard & E-Commerce Website** | [View Repo](https://github.com/Arjumaan/#) |
+| **Bug Tracker + Agile DevOps Board** | [View Repo](https://github.com/Arjumaan/#) |
+| **Progressive Web App (PWA) & React Chat App** | [View Repo](https://github.com/Arjumaan/#) |
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain, Web3 & Cryptography</b></summary>
+
+| Project Name | Repository |
+| :--- | :--- |
+| **BlockVault - Decentralized Storage Platform (Java + IPFS)** | [View Repo](https://github.com/Arjumaan/#) |
+| **Blockchain-Based Secure Document Sharing** | [View Repo](https://github.com/Arjumaan/#) |
+| **Simple Blockchain Implementation** | [View Repo](https://github.com/Arjumaan/#) |
+| **Decentralized To-Do List Using Ethereum** | [View Repo](https://github.com/Arjumaan/#) |
+| **Smart Contract For Voting System** | [View Repo](https://github.com/Arjumaan/#) |
+| **Blockchain-Based Digital Identity System** | [View Repo](https://github.com/Arjumaan/#) |
+| **Decentralized Marketplace with Smart Contracts** | [View Repo](https://github.com/Arjumaan/#) |
+| **NFT Marketplace Development** | [View Repo](https://github.com/Arjumaan/#) |
+| **Blockchain-Based Supply Chain Management** | [View Repo](https://github.com/Arjumaan/#) |
+| **Crypto Trading Bot with Blockchain Analytics** | [View Repo](https://github.com/Arjumaan/#) |
+
+</details>
+
+<details>
+<summary><b>📱 AR, Utilities & Other Applications</b></summary>
+
+| Project Name | Repository |
+| :--- | :--- |
+| **Hand-Tracking AR User Interface** | [View Repo](https://github.com/Arjumaan/#) |
+| **Face Emotion Persona Overlay** | [View Repo](https://github.com/Arjumaan/#) |
+| **MirrorClone FX & Air Swipe Music Controller** | [View Repo](https://github.com/Arjumaan/#) |
+| **Language Learning App with AR Integration** | [View Repo](https://github.com/Arjumaan/#) |
+| **FitBill - Gym Ecosystem** | [View Repo](https://github.com/Arjumaan/#) |
+| **ByteForge Club Website** | [View Repo](https://github.com/Arjumaan/#) |
+| **Portfolio Website Generator & Code Snippet Manager** | [View Repo](https://github.com/Arjumaan/#) |
+| **Offline-First Note Taking App** | [View Repo](https://github.com/Arjumaan/#) |
+| **Budget Tracking App with AI Insights** | [View Repo](https://github.com/Arjumaan/#) |
+| **School Markstatement Producer** | [View Repo](https://github.com/Arjumaan/#) |
+
+</details>
+
+---
+
+## 📈 Analytics & GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjumaan&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjumaan&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjumaan&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Arjumaan&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjumaan&theme=dark-dimmed" alt="Contribution Graph" />
+  <br><br>
+  <i>"Transforming lines of code into secure, intelligent ecosystems."</i>
+</div>
