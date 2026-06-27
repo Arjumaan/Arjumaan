@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 1000 300" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#002147" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Animated Waves -->
+  <!-- Back Wave -->
+  <path fill="#001a33" opacity="0.6" d="M0,240 Q250,290 500,240 T1000,240 L1000,300 L0,300 Z">
+    <animate attributeName="d" 
+             values="M0,240 Q250,290 500,240 T1000,240 L1000,300 L0,300 Z;
+                     M0,240 Q250,190 500,240 T1000,240 L1000,300 L0,300 Z;
+                     M0,240 Q250,290 500,240 T1000,240 L1000,300 L0,300 Z" 
+             dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Front Wave -->
+  <path fill="#000d1a" opacity="0.9" d="M0,260 Q250,210 500,260 T1000,260 L1000,300 L0,300 Z">
+    <animate attributeName="d" 
+             values="M0,260 Q250,210 500,260 T1000,260 L1000,300 L0,300 Z;
+                     M0,260 Q250,310 500,260 T1000,260 L1000,300 L0,300 Z;
+                     M0,260 Q250,210 500,260 T1000,260 L1000,300 L0,300 Z" 
+             dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Text Content -->
+  <!-- Name -->
+  <text x="50%" y="110" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="56" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">Arjumaan.M</text>
+  
+  <!-- Founder Title -->
+  <text x="50%" y="170" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="30" font-weight="600" fill="#4da6ff" text-anchor="middle" dominant-baseline="middle">Founder of SentraSec AI Systems</text>
+  
+  <!-- Roles -->
+  <text x="50%" y="220" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="18" font-weight="500" fill="#cccccc" text-anchor="middle" dominant-baseline="middle" letter-spacing="1">Cyber Security Engineer | AI / ML Engineer | Full Stack Developer | Network Engineer</text>
+</svg>
